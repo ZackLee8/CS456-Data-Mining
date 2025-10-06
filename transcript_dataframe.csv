@@ -1,0 +1,51 @@
+Student_ID,Score: ,Major: ,Graduation Year: ,Pass/Fail: ,Grade : 
+1000,70.85,Computer Science,2027,True,C
+1001,86.02,Criminal Justice,2027,True,B
+1002,50.01,English,2029,False,F
+1003,65.12,Engineering,2028,False,F
+1004,57.34,History,2026,False,F
+1005,54.62,History,2026,False,F
+1006,59.31,English,2028,False,F
+1007,67.28,English,2028,False,F
+1008,69.84,Computer Science,2029,False,F
+1009,76.94,Computer Science,2029,True,C
+1010,70.96,Criminal Justice,2029,True,C
+1011,84.26,History,2029,True,B
+1012,60.22,English,2027,False,F
+1013,93.91,Computer Science,2029,True,A
+1014,51.37,History,2029,False,F
+1015,83.52,English,2026,True,B
+1016,70.87,Engineering,2028,True,C
+1017,77.93,Criminal Justice,2028,True,C
+1018,57.02,Criminal Justice,2028,False,F
+1019,59.91,Computer Science,2026,False,F
+1020,90.04,Computer Science,2026,True,A
+1021,98.41,History,2029,True,A
+1022,65.67,Criminal Justice,2029,False,F
+1023,84.62,Engineering,2027,True,B
+1024,93.82,Engineering,2027,True,A
+1025,94.73,History,2027,True,A
+1026,54.25,Computer Science,2029,False,F
+1027,51.95,Engineering,2026,False,F
+1028,58.49,History,2026,False,F
+1029,93.91,History,2027,True,A
+1030,54.92,Engineering,2027,False,F
+1031,71.06,Engineering,2028,True,C
+1032,97.89,Engineering,2026,True,A
+1033,76.66,History,2027,True,C
+1034,84.59,Engineering,2028,True,B
+1035,65.78,Computer Science,2028,False,F
+1036,84.33,Criminal Justice,2026,True,B
+1037,91.73,History,2029,True,A
+1038,50.91,English,2027,False,F
+1039,87.51,Computer Science,2029,True,B
+1040,99.44,Criminal Justice,2029,True,A
+1041,87.41,Criminal Justice,2027,True,B
+1042,64.02,Computer Science,2026,False,F
+1043,89.46,Engineering,2029,True,B
+1044,55.16,English,2026,False,F
+1045,72.39,English,2029,True,C
+1046,95.43,Criminal Justice,2026,True,A
+1047,64.68,History,2028,False,F
+1048,64.39,Criminal Justice,2026,False,F
+1049,56.5,English,2029,False,F
