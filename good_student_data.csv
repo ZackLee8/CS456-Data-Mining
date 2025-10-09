@@ -1,0 +1,8 @@
+Student_ID,Name,Major,Credits,GPA,Grad_Year
+1001,Alice,Computer Science,120,3.85,2026
+1003,Charlie,Physics,98,3O,2024
+1004,Diana,Economics,140,4.7,2023
+1005,Ed,Computer Science,129,N/A,2027
+1010,Jack,Economics,215,3.50,2035
+1012,Liam,Computer Science,NaN,3.60,2024
+1014,Noah,Physics,85,3.25,2027
