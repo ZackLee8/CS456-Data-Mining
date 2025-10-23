@@ -1,0 +1,24 @@
+Year,Price,Column Name,Missing Values
+2025.0,12330.0,,
+2024.0,11946.0,,
+2024.0,10909.0,,
+2023.0,11549.0,,
+2023.0,11513.0,,
+2023.0,10549.0,,
+1900.0,500.0,,
+1894.0,500.0,,
+1887.0,500.0,,
+1886.0,500.0,,
+,,Color,10939.0
+,,Year,6844.0
+,,Gender,1658.0
+,,Price,1658.0
+,,Model,956.0
+,,Make,872.0
+,,Location,831.0
+,,Race,829.0
+,,VehicleType,829.0
+,,Violation Type,829.0
+,,Description,5.0
+,,Time Of Stop,0.0
+,,Date Of Stop,0.0
